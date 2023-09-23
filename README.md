@@ -9,3 +9,4 @@ Built using HTML and CSS, making it a great starting point for beginners in web 
 
 Here's a screenshot of what the project looks like:
 <img src="https://github.com/PriyamvadaP/Recipe-Book/blob/main/Web%20capture_23-9-2023_11359_.jpeg" alt="Recipe Book Screenshot" />
+<img src="https://github.com/PriyamvadaP/Recipe-Book/blob/main/Web%20capture_23-9-2023_113624_.jpeg" alt="Recipe 1 Screenshot" />
