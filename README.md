@@ -7,6 +7,8 @@ Provides quick access to three different recipes.
 Simple and easy-to-navigate user interface.
 Built using HTML and CSS, making it a great starting point for beginners in web development.
 
-Here's a screenshot of what the project looks like:
+Here's a screenshot of what the project's first page looks like:
 <img src="https://github.com/PriyamvadaP/Recipe-Book/blob/main/Web%20capture_23-9-2023_11359_.jpeg" alt="Recipe Book Screenshot" />
+
+Here's a screenshot of what the project's first Recipe page looks like:
 <img src="https://github.com/PriyamvadaP/Recipe-Book/blob/main/Web%20capture_23-9-2023_113624_.jpeg" alt="Recipe 1 Screenshot" />
