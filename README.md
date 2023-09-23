@@ -8,5 +8,4 @@ Simple and easy-to-navigate user interface.
 Built using HTML and CSS, making it a great starting point for beginners in web development.
 
 Here's a screenshot of what the project looks like:
-![Recipe Book Screenshot](images/Web capture_23-9-2023_11359_.jpeg)
 
